@@ -4,47 +4,27 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Projekten handlar om att användning av AI som provvakt på lektioner i skolor och universitet. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Att använda AI som provvakt skulle frigöra tid för lärare eller annan skolpersonal och det skulle även vara ekonomisk. Även för prov som eleverna skriver på distans kan AI användas för att övervaka skrivandet. Provs skrivs hela tiden i skolor och det är något som förekommer ofta. Jag jobbar som speciallärare, men eftersom vi är få som jobbar på vår skola, behöver jag sitta provvakt varje torsdag. Eleverna som skriver prov kan vara universitetelever som bor i kommunen och läser på ett annat ort, elever som läser kurser på NTI distans eller elever som läser på skolan. Det kostar rätt mycket om man tänker timlön för en speciallärare. För att effektivisera flera delar i samhället, utan att påverka andra saker, kan AI som provvakt frigöra tid för andra och det skulle vara konstnadseffektiv. Dessutom behöver inte annan personal hoppa in vid längre prov.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+
+
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+AI används för att monitorisera datorer, så att eleverna inte använder andra webbsidor, dators mikrofon och kamera för att registrera andra aktiviteter i omgivningen. Eventuell kamera och microfon i rummet och registrering av tid för personer som lämnar rummet. Alla undervisande lärare skulle använda och olika fakulteter som behöver övervaktning av prov (även prov för körkort).
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
+
 ![AI](DALLE2~1.WEB)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
