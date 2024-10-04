@@ -26,7 +26,6 @@ AI används för att monitorisera datorer, så att eleverna inte använder andra
 
 
 
-
 ## Data sources and AI methods
 Datainsamling från egna källor: kameror som övervakar elever under provet, programvara som analyserar elevernas rörelser, beteende, ansiktsuttryck och ljudinspelningar för att identifiera oönskat tal eller visningar. Ett system som samlar in och analyserar data i realtid, med tydliga riktlinjer för dataskydd, integritet och säkerhet.
 
