@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Projekten handlar om att användning av AI som provvakt på lektioner i skolor och universitet. 
+Projekten handlar om användning av AI som provvakt på lektioner i skolor och universitet. 
 
 
 ## Background
