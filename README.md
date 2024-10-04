@@ -28,28 +28,26 @@ AI används för att monitorisera datorer, så att eleverna inte använder andra
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+Datainsamling från egna källor: kameror som övervakar elever under provet, programvara som analyserar elevernas rörelser, beteende, ansiktsuttryck och ljudinspelningar för att identifiera oönskat tal eller visningar. Ett system som samlar in och analyserar data i realtid, med tydliga riktlinjer för dataskydd, integritet och säkerhet.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+* Det kan finnas tekniska begränsningar: AI kan ha svårt att tolka korrekt vissa beteende (skilja mellan nervositet och fusk), sårbarhet för tekniska problem. 
+* Dataintegritet och säkerhet: stora lagringsutrymme, svårt att skydda känslig information.
+* Bias och diskriminering: vid felaktigt träning av AI-systemet kan leda till ojämlik behandlig av elever baserad på kön, etnicitet m.m.
+* AI kan inte tolka om eleven är i svårigheter på grund om stress och inte fuskar. Människor är bättre på det.
+* Fusk via andra gömda kanaler.
+* Övervakningen vid prov kan öka elvernas stress.
+* Integritetsfrågor: insamling av känslig data, elevernas rätt till integritet.
+* Samtycke: informera alla om insamling av data.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+För utveckling krävs det både tekniska och mänsliga resurser. Till exempel använda mer avancerade AI-algoritmer och maskininlärning för att förstå och tolka elevernas beteende, integrering av fler sensorer för att tolka kropps-, ögonrörelser. Utveckla systemet så det passar även i online-miljöer. Det krävs mänsliga resurser som utvecklare och dataexperter med kunskap inom AI för att förbättra systemet, etiska experter och jurister för att säkerställa att det följs lagar, psykologer och utbildningsexperter på elevbeteende. 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* ChatGPT - DALL-E
